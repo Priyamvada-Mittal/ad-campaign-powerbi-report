@@ -30,7 +30,7 @@ This Power BI project presents a comprehensive analysis of a digital advertising
 
 **⚙️Technical Details:**
 - Built with Power BI, offering intuitive, interactive visuals and detailed drill-down capabilities.
-- DAX for calculated measures (e.g., ROI, margin %, conversion rate)
+- DAX for calculated measures.
 - Interactive visuals including bar charts, pie charts, scatter plots, parameters and detailed drill-through pages.
 
 **📸 Dashboard Preview**
