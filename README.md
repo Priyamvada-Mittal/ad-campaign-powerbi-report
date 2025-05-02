@@ -22,13 +22,6 @@ This Power BI project presents a comprehensive analysis of a digital advertising
   - **Remedy 2:** Allocate additional spend to Travel campaigns, especially those with >1.2% CTR and ROI >1.5. Use Travel as a testbed for creative and audience targeting innovations that could later scale to other industries.
 - **Insight 3:** 24 campaigns were cancelled. Yet they achieved an average ROI of 1.97. Their average CTR (1.15%) and margin (47.5%) are quite strong — these are not failure cases. In fact, cancelled campaigns still generated over $40,000 in revenue, about 27% of total campaign revenue. This strongly suggests that many cancellations were not performance-driven.
   - **Remedy 3:** Implement a post-cancellation review process to log the reason (e.g., budget freeze, client churn, or strategy shift).Identify high-ROI cancelled campaigns and re-evaluate restarting or cloning them — particularly those with: ROI > 1.5 ,Margin > 40% and CTR > 1%
-
-
-**🛠️Usage**
-- Use this dashboard to:
-  - Identify departments or roles with high attrition rates.
-  - Investigate factors contributing to employee dissatisfaction.
-  - Plan targeted retention and employee development strategies.
  
 **📌Some Interesting Measures Build**
 - **Cost Per Click:** CPC measures the cost efficiency of driving user actions (clicks). A high CPC indicates poor targeting, irrelevant creatives meaning we are paying more for each user action than necessary. Tracking CPC enables early identification of campaigns that are costly relative to the engagement they generate, allowing budget optimization and targeting refinements.
