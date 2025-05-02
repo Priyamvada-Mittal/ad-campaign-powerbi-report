@@ -9,10 +9,10 @@ This Power BI project presents a comprehensive analysis of a digital advertising
 - Region_Data: Provides cost per click by region.
 
 **📊Key Metrics** 
-- Campaign Overview: ROI, net revenue, cost breakdown, CTR, CPM, and margin.
+- Campaign Overview: ROI, net revenue, cost breakdown, CTR, CPM, and margin (Audience Engagement).
 - Industry Insights: Performance analysis by campaign status, platform, service model and region.
-- Regional Breakdown: Average CPC, viewability, and performance by region.
 - Client Segmentation: Churn risk analysis, and CLV distribution.
+- Campaign counts and performance by region, platform and status
 - Filters: Dynamic slicers for industry, campaign status, region, platform, and bid strategy.
 
 **🌟Key Insights and Remedy for them**
