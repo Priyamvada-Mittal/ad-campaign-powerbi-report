@@ -16,12 +16,12 @@ This Power BI project presents a comprehensive analysis of a digital advertising
 - Filters: Dynamic slicers for industry, campaign status, region, platform, and bid strategy.
 
 **🌟Key Insights and Remedy for them**
-**Insight 1:** High-value clients at high churn risk i.e. Clients in North America and Europe bring the most revenue but also have the highest risk of leaving. Some with over $250K in lifetime value are already flagged as likely to churn.
-**Remedy 1:** Launch a proactive retention plan. Prioritize these clients for reviews, incentives, and support. Even reducing churn slightly here will protect major revenue.
-**Insight 2:** Travel campaigns have exceptional engagement and efficiency but receive limited budget. Travel has the highest CTR (1.33%) and lowest CPC ($0.45) indicating it attracts clicks cheaply and frequently. Despite this, it ranks last in revenue volume among top industries. Suggests this industry is underutilized despite having the best cost-efficiency dynamics.
-**Remedy 2:** Allocate additional spend to Travel campaigns, especially those with >1.2% CTR and ROI >1.5. Use Travel as a testbed for creative and audience targeting innovations that could later scale to other industries.
-**Insight 3:** 24 campaigns were cancelled. Yet they achieved an average ROI of 1.97. Their average CTR (1.15%) and margin (47.5%) are quite strong — these are not failure cases. In fact, cancelled campaigns still generated over $40,000 in revenue, about 27% of total campaign revenue. This strongly suggests that many cancellations were not performance-driven.
-**Remedy 3:** Implement a post-cancellation review process to log the reason (e.g., budget freeze, client churn, or strategy shift).Identify high-ROI cancelled campaigns and re-evaluate restarting or cloning them — particularly those with: ROI > 1.5 ,Margin > 40% and CTR > 1%
+- **Insight 1:** High-value clients at high churn risk i.e. Clients in North America and Europe bring the most revenue but also have the highest risk of leaving. Some with over $250K in lifetime value are already flagged as likely to churn.
+  - **Remedy 1:** Launch a proactive retention plan. Prioritize these clients for reviews, incentives, and support. Even reducing churn slightly here will protect major revenue.
+- **Insight 2:** Travel campaigns have exceptional engagement and efficiency but receive limited budget. Travel has the highest CTR (1.33%) and lowest CPC ($0.45) indicating it attracts clicks cheaply and frequently. Despite this, it ranks last in revenue volume among top industries. Suggests this industry is underutilized despite having the best cost-efficiency dynamics.
+  - **Remedy 2:** Allocate additional spend to Travel campaigns, especially those with >1.2% CTR and ROI >1.5. Use Travel as a testbed for creative and audience targeting innovations that could later scale to other industries.
+- **Insight 3:** 24 campaigns were cancelled. Yet they achieved an average ROI of 1.97. Their average CTR (1.15%) and margin (47.5%) are quite strong — these are not failure cases. In fact, cancelled campaigns still generated over $40,000 in revenue, about 27% of total campaign revenue. This strongly suggests that many cancellations were not performance-driven.
+  - **Remedy 3:** Implement a post-cancellation review process to log the reason (e.g., budget freeze, client churn, or strategy shift).Identify high-ROI cancelled campaigns and re-evaluate restarting or cloning them — particularly those with: ROI > 1.5 ,Margin > 40% and CTR > 1%
 
 
 **🛠️Usage**
@@ -41,6 +41,7 @@ This Power BI project presents a comprehensive analysis of a digital advertising
 - Interactive visuals including bar charts, pie charts, scatter plots, parameters and detailed drill-through pages.
 
 **📸 Dashboard Preview**
+
 ![image](https://github.com/user-attachments/assets/fd48a890-64ca-4598-9a40-19691fdfeba0)
 ![image](https://github.com/user-attachments/assets/6516147a-d611-4ac1-b399-e06fecda0b5d)
 
