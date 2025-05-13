@@ -1,6 +1,6 @@
-# Ad Campaign Performance Dashboard – Power BI
+# Ad Campaign Performance Report – Power BI
 **Overview**
-This Power BI project presents a comprehensive analysis of a digital advertising campaign across industries, regions, and platforms. It enables stakeholders to understand campaign effectiveness, optimize strategies, and make data-driven decisions. The objective is to visualize and analyze multi-channel ad campaign performance by combining business KPIs like ROI, CTR, margin, and customer value across industries and regions. The dashboard aims to support marketing teams and senior management in identifying underperforming areas and high-return segments.
+This Power BI project presents a comprehensive analysis of a digital advertising campaign across industries, regions, and platforms. It enables stakeholders to understand campaign effectiveness, optimize strategies, and make data-driven decisions. The objective is to visualize and analyze multi-channel ad campaign performance by combining business KPIs like ROI, CTR, margin, and customer value across industries and regions. The report aims to support marketing teams and senior management in identifying underperforming areas and high-return segments.
 
 **📊Dataset Information**
 - Campaign_Data: Includes performance metrics like impressions, clicks, revenue, CTR, CPM, platform type, and campaign status.
@@ -33,13 +33,13 @@ This Power BI project presents a comprehensive analysis of a digital advertising
 - DAX for calculated measures.
 - Interactive visuals including bar charts, pie charts, scatter plots, parameters and detailed drill-through pages.
 
-**📸 Dashboard Preview**
+**📸 report Preview**
 
 ![image](https://github.com/user-attachments/assets/fd48a890-64ca-4598-9a40-19691fdfeba0)
 ![image](https://github.com/user-attachments/assets/6516147a-d611-4ac1-b399-e06fecda0b5d)
 
 **💼 About Me**
-I’m a Data Analyst with 5 years of experience specializing in business intelligence and Power BI development. This project demonstrates my ability to build insightful, dynamic dashboards using real-world marketing data.
+I’m a Data Analyst with 5 years of experience specializing in business intelligence and Power BI development. This project demonstrates my ability to build insightful, dynamic reports using real-world marketing data.
 
 
 
