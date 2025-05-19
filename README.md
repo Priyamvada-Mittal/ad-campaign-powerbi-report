@@ -33,7 +33,7 @@ This Power BI project presents a comprehensive analysis of a digital advertising
 - DAX for calculated measures.
 - Interactive visuals including bar charts, pie charts, scatter plots, parameters and detailed drill-through pages.
 
-**📸 report Preview**
+**📸 Report Preview**
 
 ![image](https://github.com/user-attachments/assets/fd48a890-64ca-4598-9a40-19691fdfeba0)
 ![image](https://github.com/user-attachments/assets/6516147a-d611-4ac1-b399-e06fecda0b5d)
